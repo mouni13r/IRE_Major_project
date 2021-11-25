@@ -2,9 +2,7 @@
 
 # Demo
 
-Demo is in demo.mp4
-
-`https://drive.google.com/file/d/1I8QrCj2t1HmZW4hepF4cODj96t4KnmLL/view?usp=sharing`
+Demo is in [demo.mp4](https://drive.google.com/file/d/1I8QrCj2t1HmZW4hepF4cODj96t4KnmLL/view?usp=sharing)
 
 # neural-template-gen
 
